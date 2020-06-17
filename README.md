@@ -5,10 +5,10 @@ Fullstack (Web + Backend) + Mobile application to find recycling points nearby.
 
 Technologies involved: 
 
-* Programming Language: Javascript with gold saint armor as know as Typescript.
+* Programming Language: Javascript with gold saint armor as known as Typescript.
 * Backend: Node.JS 
 * Web Frond + Mobile: ReactJS + React Native 
-  ++ multiple dependencies.... If you are new at Web Development check package.json for all detailed information which external packages were used =) tip: ...npm install...
+  ++ multiple dependencies.... If you are new at Web Development check package.json for all detailed information from which external packages were used =) tip: ...npm install...
 
 
 
