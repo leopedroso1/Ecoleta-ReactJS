@@ -1,2 +1,14 @@
 # Ecoleta-ReactJS
-=) Description later! =)
+Fullstack (Web + Backend) + Mobile application to find recycling points nearby. 
+
+=) Detailed description with requirements. and how to run: Coming Soon....
+
+Technologies involved: 
+
+* Programming Language: Javascript with gold saint armor as know as Typescript.
+* Backend: Node.JS 
+* Web Frond + Mobile: ReactJS + React Native 
+  ++ multiple dependencies.... If you are new at Web Development check package.json for all detailed information which external packages were used =) tip: ...npm install...
+
+
+
